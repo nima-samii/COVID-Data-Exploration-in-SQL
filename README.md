@@ -25,7 +25,7 @@ The project uses the following files:
 
 ### 4. Vaccination Analysis
 - Track vaccination progress over time using rolling sums.
-- Use CTEs and temporary tables to calculate the percentage of the population vaccinated.
+- Use CTEs and temporary tables to calculate the percentage of the vaccinated population.
 - Create a SQL view to store vaccination trends for visualization.
 
 ## SQL Techniques Used
